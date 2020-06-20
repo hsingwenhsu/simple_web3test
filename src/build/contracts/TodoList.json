@@ -3722,10 +3722,16 @@
       "links": {},
       "address": "0x9cC5EB5DDb7B932799D4AC942765819538d82486",
       "transactionHash": "0xf1099c5a94d5945c2ecf321833f7e2835e8d44876713ab5db069954e0228595c"
+    },
+    "1592627931515": {
+      "events": {},
+      "links": {},
+      "address": "0xa40D4607566174386FCd48D735249e5794eE7Cb6",
+      "transactionHash": "0x8847f8f850b0b7d1daa1689ccc52a9cc3abb6cd104076ac1ac83cc0fe8455c98"
     }
   },
   "schemaVersion": "3.1.0",
-  "updatedAt": "2020-06-20T04:15:13.334Z",
+  "updatedAt": "2020-06-20T04:38:58.752Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
