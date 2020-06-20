@@ -1,4 +1,3 @@
-#Testing web3 with Hw2_2
 ## How to start the program?
 ### 1. Truffle compile (Directory: `src/`)
 ```
